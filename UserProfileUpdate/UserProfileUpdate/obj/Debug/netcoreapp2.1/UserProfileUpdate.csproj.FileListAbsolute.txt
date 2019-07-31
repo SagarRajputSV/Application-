@@ -1,0 +1,17 @@
+C:\Users\training\Desktop\UserProfileUpdate\UserProfileUpdate\bin\Debug\netcoreapp2.1\UserProfileUpdate.deps.json
+C:\Users\training\Desktop\UserProfileUpdate\UserProfileUpdate\bin\Debug\netcoreapp2.1\UserProfileUpdate.runtimeconfig.json
+C:\Users\training\Desktop\UserProfileUpdate\UserProfileUpdate\bin\Debug\netcoreapp2.1\UserProfileUpdate.runtimeconfig.dev.json
+C:\Users\training\Desktop\UserProfileUpdate\UserProfileUpdate\bin\Debug\netcoreapp2.1\UserProfileUpdate.dll
+C:\Users\training\Desktop\UserProfileUpdate\UserProfileUpdate\obj\Debug\netcoreapp2.1\UserProfileUpdate.csproj.CoreCompileInputs.cache
+C:\Users\training\Desktop\UserProfileUpdate\UserProfileUpdate\obj\Debug\netcoreapp2.1\UserProfileUpdate.RazorAssemblyInfo.cache
+C:\Users\training\Desktop\UserProfileUpdate\UserProfileUpdate\obj\Debug\netcoreapp2.1\UserProfileUpdate.RazorAssemblyInfo.cs
+C:\Users\training\Desktop\UserProfileUpdate\UserProfileUpdate\obj\Debug\netcoreapp2.1\UserProfileUpdate.AssemblyInfoInputs.cache
+C:\Users\training\Desktop\UserProfileUpdate\UserProfileUpdate\obj\Debug\netcoreapp2.1\UserProfileUpdate.AssemblyInfo.cs
+C:\Users\training\Desktop\UserProfileUpdate\UserProfileUpdate\obj\Debug\netcoreapp2.1\UserProfileUpdate.RazorTargetAssemblyInfo.cache
+C:\Users\training\Desktop\UserProfileUpdate\UserProfileUpdate\bin\Debug\netcoreapp2.1\UserProfileUpdate.pdb
+C:\Users\training\Desktop\UserProfileUpdate\UserProfileUpdate\obj\Debug\netcoreapp2.1\UserProfileUpdate.dll
+C:\Users\training\Desktop\UserProfileUpdate\UserProfileUpdate\obj\Debug\netcoreapp2.1\UserProfileUpdate.pdb
+C:\Users\training\Desktop\UserProfileUpdate\UserProfileUpdate\obj\Debug\netcoreapp2.1\UserProfileUpdate.csprojAssemblyReference.cache
+C:\Users\training\Desktop\UserProfileUpdate\UserProfileUpdate\bin\Debug\netcoreapp2.1\LoggerService.dll
+C:\Users\training\Desktop\UserProfileUpdate\UserProfileUpdate\bin\Debug\netcoreapp2.1\LoggerService.pdb
+C:\Users\training\Desktop\UserProfileUpdate\UserProfileUpdate\obj\Debug\netcoreapp2.1\UserProfileUpdate.csproj.CopyComplete
